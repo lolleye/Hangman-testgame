@@ -1,2 +1,6 @@
 # Hangman-testgame
-Hangman
+
+To load the game:
+
+java Hangman [word to be guessed for game]
+
